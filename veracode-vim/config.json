@@ -1,0 +1,5 @@
+{
+    "package_path":"/tmp/example.zip",
+    "app_path":"pygoat",
+    "exclude_dirs":"~/dev/scratch/node_modules"
+}
